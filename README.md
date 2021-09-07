@@ -1,2 +1,5 @@
 # data602-lectures
-Holds content for DATA602
+
+This warehouses content for DATA602 lectures.
+
+
