@@ -2,20 +2,19 @@
 This is your opportunity to utilize the concepts in the course in undertaking your own machine learning analysis. This will be worth 30% of your final grade.
 
 # Deliverabes:
-A GitHub repository with your project.
-README that contains an overview of your work
-Copy or link to your data
-Jupyter Notebook - containing:
-an abstract/introduction; 
-exploratory data analysis);
-data cleaning and feature engineering;
-modeling;
-results and discussion;
-conclusion/next steps;
-references
-Slide presentation that summarizes your motivation for choosing the dataset, the specific problem you are trying to solve, exploratory data analysis, and model results. You should include motivation towards the techniques chosen and areas for further exploration.
-Time permitting in the last week, everyone will have ~5 minutes to present their projects.
-Youtube recording (< 5 minutes) overviewing the slides. You’ll submit the link.
+### A GitHub repository with your project, containing:
+- README that contains an overview of your work. 
+- Copy or link to your data. 
+- Jupyter Notebook - containing:  
+  - an abstract/introduction;   
+  - exploratory data analysis);  
+  - data cleaning and feature engineering;  
+  - modeling;  
+  - results and discussion;  
+  - conclusion/next steps;  
+  - references. 
+### Slide presentation that summarizes your motivation for choosing the dataset, the specific problem you are trying to solve, exploratory data analysis, and model results. You should include motivation towards the techniques chosen and areas for further exploration. Time permitting in the last week, everyone will have ~5 minutes to present their projects.
+### Youtube recording (< 5 minutes) overviewing the slides. You’ll submit the link.
 
 Grading Guidelines:
 ( 5%) Project motivation clearly explained
