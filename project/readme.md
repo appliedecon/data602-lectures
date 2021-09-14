@@ -1,7 +1,7 @@
 # DATA602 Final Project
 This is your opportunity to utilize the concepts in the course in undertaking your own machine learning analysis. This will be worth 30% of your final grade.
 
-# Deliverabes:
+# Deliverables:
 ### (1) A GitHub repository with your project, containing:
 - README that contains an overview of your work. 
 - Copy or link to your data. 
