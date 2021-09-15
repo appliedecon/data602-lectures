@@ -1,4 +1,4 @@
-# Gradient Descent, Lasso Regression, k-NN Regression
+# Week 5 - Regression Continued
 
 Agenda:  
 - 
