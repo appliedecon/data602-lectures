@@ -1,6 +1,7 @@
 # Week 5 - Regression Continued
 
 Agenda:  
+- Regularization.  
 - Ridge regression.  
 - Gradient descent.  
 - Lasso regression.  
