@@ -12,4 +12,4 @@ Agenda:
 - Multiple regression. 
 - Strengths and weaknesses.  
 - Robust regression methods.  
-- Ridge regression.  
+- Bias/variance trade-off.  
