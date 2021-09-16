@@ -6,4 +6,4 @@ Agenda:
 - Gradient descent.  
 - Lasso regression.  
 - Comparison of OLS, Ridge, and Lasso results.  
-- Introduction to grid search.  
+- Introduction to grid search, pipelines, holdout method.  
