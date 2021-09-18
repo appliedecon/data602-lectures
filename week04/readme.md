@@ -9,7 +9,7 @@ Agenda:
 - p-value hacking.  
 - Checking residuals.  
 - Predicting new values.  
+- Robust regression methods.  
 - Multiple regression. 
 - Strengths and weaknesses.  
-- Robust regression methods.  
-- Bias/variance trade-off.  
+- Pipelines.  
