@@ -1,4 +1,4 @@
-# data602-lectures
+# Lectures for DATA602
 
 This warehouses content for DATA602 lectures.
 
