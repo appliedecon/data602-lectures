@@ -40,3 +40,4 @@ This warehouses content for DATA602 lectures.
 ## Neural Networks
 
 ## Time Series Analysis
+[Forecasting Principles and Practive, Hyndman](https://otexts.com/fpp2/)
