@@ -11,6 +11,11 @@ This warehouses content for DATA602 lectures.
 
 # Resources 
 
+## Books
+[Python Machine Learning, 3rd Edition, Raschka and Mirjalili](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750)
+<br>[Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+<br>[Introduction to Statistical Learning](https://www.statlearning.com)
+
 ## Data Sources
 [OpenML](https://www.openml.org)
 <br>[CMU Datasets](http://lib.stat.cmu.edu/datasets/)
