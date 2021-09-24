@@ -37,6 +37,7 @@ This warehouses content for DATA602 lectures.
 ## pandas
 [pandas documentation](https://pandas.pydata.org)
 <br>[Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media](https://github.com/wesm/pydata-book)
+<br>[Matt Harrison's 9/22/21 Presentation to DataWorks MD on Idiomatic Pandas](https://www.youtube.com/watch?v=GXvKNWCiZUg)
 
 ## Exploratory Data Analysis and Visualization
 [Edward Tufte](https://www.edwardtufte.com/tufte/)
