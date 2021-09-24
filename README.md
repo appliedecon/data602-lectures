@@ -23,6 +23,8 @@ This warehouses content for DATA602 lectures.
 <br>[Open Baltimore](https://data.baltimorecity.gov)
 <br>[University of Missouri Data Library](https://libraryguides.missouri.edu/datasets/public-use)
 <br>[UMBC's Small Dataset Repo](https://github.com/UMBC-Data-Science/DATA602Datasets/)
+<br>[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+<br>[MovieLens](https://ai.stanford.edu/~amaas/data/sentiment/)
 
 ## General Python and Data Science Resources
 [mlxend](http://rasbt.github.io/mlxtend/)
@@ -45,6 +47,9 @@ This warehouses content for DATA602 lectures.
 <br>[seaborn](https://seaborn.pydata.org)
 
 ## Regression
+[Andrew Ng Regression Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8)
+<br>[Cornell Regression Lecture](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote08.html)
+<br>[Deriving Ridge Regression](https://stats.stackexchange.com/questions/69205/how-to-derive-the-ridge-regression-solution)
 
 ## Classification
 
@@ -63,3 +68,6 @@ This warehouses content for DATA602 lectures.
 ## Time Series Analysis
 [Forecasting Principles and Practive, Hyndman](https://otexts.com/fpp2/)
 <br>[Diebold - Econometric Data Science](https://www.sas.upenn.edu/~fdiebold/Teaching104/Slides.pdf)
+
+## Model Evaluation
+[Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning, Raschka](https://arxiv.org/abs/1811.12808)
