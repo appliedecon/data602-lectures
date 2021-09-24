@@ -11,6 +11,18 @@ This warehouses content for DATA602 lectures.
 
 # Resources 
 
+## Data Sources
+[OpenML](https://www.openml.org)
+<br>[CMU Datasets](http://lib.stat.cmu.edu/datasets/)
+<br>[Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
+<br>[Open Baltimore](https://data.baltimorecity.gov)
+<br>[University of Missouri Data Library](https://libraryguides.missouri.edu/datasets/public-use)
+<br>[UMBC's Small Dataset Repo](https://github.com/UMBC-Data-Science/DATA602Datasets/)
+
+## General Python Resources
+[mlxend](http://rasbt.github.io/mlxtend/)
+<br>[Repository for Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2)
+
 ## pandas
 [pandas documentation](https://pandas.pydata.org)
 <br>[Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media](https://github.com/wesm/pydata-book)
@@ -41,3 +53,4 @@ This warehouses content for DATA602 lectures.
 
 ## Time Series Analysis
 [Forecasting Principles and Practive, Hyndman](https://otexts.com/fpp2/)
+<br>[Diebold - Econometric Data Science](https://www.sas.upenn.edu/~fdiebold/Teaching104/Slides.pdf)
