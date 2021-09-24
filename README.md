@@ -8,3 +8,27 @@ This warehouses content for DATA602 lectures.
 <br>[week04](https://github.com/appliedecon/data602-lectures/tree/main/week04) - introduction to regression.
 <br>[week05](https://github.com/appliedecon/data602-lectures/tree/main/week05) - regression and regularization.
 <br>[week06](https://github.com/appliedecon/data602-lectures/tree/main/week06) - classification with logistic regression.
+
+# Resources 
+
+## pandas
+
+## Exploratory Data Analysis
+
+## Regression
+
+## Classification
+
+## Logistic Regression
+
+## Naive Bayes
+
+## Support Vector Machines
+
+## Decision Trees
+
+## Random Forests / Ensemble Modeling
+
+## Neural Networks
+
+## Time Series Analysis
