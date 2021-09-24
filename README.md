@@ -33,6 +33,7 @@ This warehouses content for DATA602 lectures.
 <br>[Murat's Fall '20 Materials](https://github.com/mguner/UMBC_DATA602)
 <br>[Goker Erdogan's Lecture Notes](https://github.com/gokererdogan/JaverianaMLCourse)
 <br>[Raschka's STAT 479 Notes](https://github.com/rasbt/stat479-machine-learning-fs19)
+<br>[No Free Lunch](https://ieeexplore.ieee.org/document/6795940)
 
 ## pandas
 [pandas documentation](https://pandas.pydata.org)
