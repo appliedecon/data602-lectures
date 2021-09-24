@@ -24,9 +24,13 @@ This warehouses content for DATA602 lectures.
 <br>[University of Missouri Data Library](https://libraryguides.missouri.edu/datasets/public-use)
 <br>[UMBC's Small Dataset Repo](https://github.com/UMBC-Data-Science/DATA602Datasets/)
 
-## General Python Resources
+## General Python and Data Science Resources
 [mlxend](http://rasbt.github.io/mlxtend/)
 <br>[Repository for Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2)
+<br>[Cornell - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/page18/)
+<br>[Murat's Fall '20 Materials](https://github.com/mguner/UMBC_DATA602)
+<br>[Goker Erdogan's Lecture Notes](https://github.com/gokererdogan/JaverianaMLCourse)
+<br>[Raschka's STAT 479 Notes](https://github.com/rasbt/stat479-machine-learning-fs19)
 
 ## pandas
 [pandas documentation](https://pandas.pydata.org)
