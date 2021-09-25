@@ -2,4 +2,5 @@
 
 ## Agenda
 - PCA.  
+- Topic modeling.  
 - t-SNE.  
