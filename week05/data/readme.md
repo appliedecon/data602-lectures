@@ -1,1 +1,1 @@
-This contains the data used in the notebook.
+No external data was referenced this week.
