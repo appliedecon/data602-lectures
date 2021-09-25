@@ -34,6 +34,7 @@ This warehouses content for DATA602 lectures.
 <br>[Goker Erdogan's Lecture Notes](https://github.com/gokererdogan/JaverianaMLCourse)
 <br>[Raschka's STAT 479 Notes](https://github.com/rasbt/stat479-machine-learning-fs19)
 <br>[No Free Lunch](https://ieeexplore.ieee.org/document/6795940)
+<br>[Zico Kolter's Linear Algebra Review](https://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf)
 
 ## pandas
 [pandas documentation](https://pandas.pydata.org)
@@ -52,6 +53,7 @@ This warehouses content for DATA602 lectures.
 [Andrew Ng Regression Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8)
 <br>[Cornell Regression Lecture](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote08.html)
 <br>[Deriving Ridge Regression](https://stats.stackexchange.com/questions/69205/how-to-derive-the-ridge-regression-solution)
+<br>[Common Pitfalls in Interpreting Coefficients](https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html)
 
 ## Classification
 
