@@ -55,8 +55,6 @@ This warehouses content for DATA602 lectures.
 <br>[Deriving Ridge Regression](https://stats.stackexchange.com/questions/69205/how-to-derive-the-ridge-regression-solution)
 <br>[Common Pitfalls in Interpreting Coefficients](https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html)
 
-## Classification
-
 ## Logistic Regression
 [Logistic Regression Youtube Demo](https://www.youtube.com/watch?v=71iXeuKFcQM)
 <br>[scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
