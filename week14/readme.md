@@ -6,3 +6,6 @@
 - Activation functions.  
 - Classifying digits.  
 - Keras.  
+
+## Resources
+[TensorFlow](https://www.tensorflow.org)
