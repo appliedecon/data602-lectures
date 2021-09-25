@@ -17,4 +17,3 @@ Agenda:
 Resources/readings:
 - [Ben Lambert's Derivation of OLS](https://www.youtube.com/watch?v=fb1CNQT-3Pg). 
 - [Andrew Ng - Regression with one variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc). 
-- 
