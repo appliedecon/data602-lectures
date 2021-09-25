@@ -2,7 +2,6 @@
 
 Agenda:  
 - Linear regression review.  
-- Introduction to scikit-learn pipelines.  
 - Regularization.  
 - Ridge regression.  
 - Gradient descent.  
