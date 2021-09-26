@@ -58,12 +58,14 @@ This warehouses content for DATA602 lectures.
 <br>[Tableau Public Gallery](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
 <br>[Matplotlib](https://matplotlib.org)
 <br>[seaborn](https://seaborn.pydata.org)
+<br>[JunkCharts - examples of what not to do](https://junkcharts.typepad.com)
 
 ## Regression
 [Andrew Ng Regression Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8)
 <br>[Cornell Regression Lecture](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote08.html)
 <br>[Deriving Ridge Regression](https://stats.stackexchange.com/questions/69205/how-to-derive-the-ridge-regression-solution)
 <br>[Common Pitfalls in Interpreting Coefficients](https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html)
+<br>[HBR Article - Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations)
 
 ## Logistic Regression
 [Logistic Regression Youtube Demo](https://www.youtube.com/watch?v=71iXeuKFcQM)
