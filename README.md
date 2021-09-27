@@ -45,6 +45,7 @@ This warehouses content for DATA602 lectures.
 <br>[Raschka's STAT 479 Notes](https://github.com/rasbt/stat479-machine-learning-fs19)
 <br>[No Free Lunch](https://ieeexplore.ieee.org/document/6795940)
 <br>[Zico Kolter's Linear Algebra Review](https://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf)
+<br>[Data Works MD - Maryland Data Science User Group](https://dataworksmd.org)
 
 ## pandas
 [pandas documentation](https://pandas.pydata.org)
