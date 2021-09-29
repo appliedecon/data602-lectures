@@ -83,6 +83,7 @@ This warehouses content for DATA602 lectures.
 ## Support Vector Machines
 
 ## Decision Trees
+[dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)
 
 ## Random Forests / Ensemble Modeling
 
