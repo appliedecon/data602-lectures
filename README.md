@@ -88,6 +88,7 @@ This warehouses content for DATA602 lectures.
 ## Random Forests / Ensemble Modeling
 
 ## Neural Networks
+[Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 
 ## Time Series Analysis
 [Forecasting Principles and Practive, Hyndman](https://otexts.com/fpp2/)
