@@ -89,6 +89,7 @@ This warehouses content for DATA602 lectures.
 
 ## Neural Networks
 [Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
+<br>[Large-scale multi-label text classification with Keras](https://keras.io/examples/nlp/multi_label_classification/)
 
 ## Time Series Analysis
 [Forecasting Principles and Practive, Hyndman](https://otexts.com/fpp2/)
