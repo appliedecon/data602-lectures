@@ -9,4 +9,8 @@ Agenda:
 - ElasticNet.  
 
 Resources/Readings:
-- [Andrew Ng - Regression and Regularization](https://www.youtube.com/watch?v=4b4MUYve_U8)
+- [Andrew Ng on Regularization](https://www.youtube.com/watch?v=NyG-7nRpsW8&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=6)  
+- [Great notes from Goker Erdogan](https://github.com/gokererdogan/JaverianaMLCourse/blob/master/Lectures/05.pdf). 
+- [Raschka on Regularization Performance](https://sebastianraschka.com/faq/docs/regularized-logistic-regression-performance.html)  
+- [Raschka's Linear Regression Notes](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression/)
+
