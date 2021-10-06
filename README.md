@@ -9,8 +9,8 @@ This warehouses content for DATA602 lectures.
 <br>[week05](https://github.com/appliedecon/data602-lectures/tree/main/week05) - regression and regularization.
 <br>[week06](https://github.com/appliedecon/data602-lectures/tree/main/week06) - classification with logistic regression.
 <br>[week07](https://github.com/appliedecon/data602-lectures/tree/main/week07) - design, experiments, grid search.
-<br>[week08](https://github.com/appliedecon/data602-lectures/tree/main/week08) - trees. 
-<br>[week09](https://github.com/appliedecon/data602-lectures/tree/main/week09) - naive bayes, svm, k-nn.
+<br>[week08](https://github.com/appliedecon/data602-lectures/tree/main/week08) - trees, k-nn, and lda. 
+<br>[week09](https://github.com/appliedecon/data602-lectures/tree/main/week09) - naive bayes, svm.
 <br>[week10](https://github.com/appliedecon/data602-lectures/tree/main/week10) - bagging, boosting, voting, ensembles.
 <br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - online learning.
 <br>[week12](https://github.com/appliedecon/data602-lectures/tree/main/week12) - clustering.
