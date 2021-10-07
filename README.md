@@ -9,12 +9,12 @@ This warehouses content for DATA602 lectures.
 <br>[week05](https://github.com/appliedecon/data602-lectures/tree/main/week05) - regression and regularization.
 <br>[week06](https://github.com/appliedecon/data602-lectures/tree/main/week06) - classification with logistic regression.
 <br>[week07](https://github.com/appliedecon/data602-lectures/tree/main/week07) - design, experiments, grid search.
-<br>[week08](https://github.com/appliedecon/data602-lectures/tree/main/week08) - trees, k-nn, and lda. 
-<br>[week09](https://github.com/appliedecon/data602-lectures/tree/main/week09) - naive bayes, svm.
-<br>[week10](https://github.com/appliedecon/data602-lectures/tree/main/week10) - bagging, boosting, voting, ensembles.
-<br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - online learning.
+<br>[week08](https://github.com/appliedecon/data602-lectures/tree/main/week08) - decision trees and random forest. 
+<br>[week09](https://github.com/appliedecon/data602-lectures/tree/main/week09) - naive bayes, svm, and k-nn.
+<br>[week10](https://github.com/appliedecon/data602-lectures/tree/main/week10) - dimension reduction, visualization, topic modeling.
+<br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - oagging, boosting, voting, ensembles.
 <br>[week12](https://github.com/appliedecon/data602-lectures/tree/main/week12) - clustering.
-<br>[week13](https://github.com/appliedecon/data602-lectures/tree/main/week13) - dimension reduction, visualization, topic modeling.
+<br>[week13](https://github.com/appliedecon/data602-lectures/tree/main/week13) - online learning.
 <br>[week14](https://github.com/appliedecon/data602-lectures/tree/main/week14) - intro to neural networds.
 
 
@@ -84,10 +84,10 @@ This warehouses content for DATA602 lectures.
 
 ## Support Vector Machines
 
-## Decision Trees
+## Decision Trees and Random Forests
 [dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)
 
-## Random Forests / Ensemble Modeling
+## Ensemble Modeling
 
 ## Neural Networks
 [Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
