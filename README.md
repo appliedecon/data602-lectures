@@ -11,8 +11,8 @@ This warehouses content for DATA602 lectures.
 <br>[week07](https://github.com/appliedecon/data602-lectures/tree/main/week07) - design, experiments, grid search.
 <br>[week08](https://github.com/appliedecon/data602-lectures/tree/main/week08) - decision trees and random forest. 
 <br>[week09](https://github.com/appliedecon/data602-lectures/tree/main/week09) - naive bayes, svm, and k-nn.
-<br>[week10](https://github.com/appliedecon/data602-lectures/tree/main/week10) - dimension reduction, visualization, topic modeling.
-<br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - bagging, boosting, voting, ensembles.
+<br>[week10](https://github.com/appliedecon/data602-lectures/tree/main/week10) - bagging, boosting, voting, ensembles.
+<br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - dimension reduction, visualization, topic modeling.
 <br>[week12](https://github.com/appliedecon/data602-lectures/tree/main/week12) - clustering.
 <br>[week13](https://github.com/appliedecon/data602-lectures/tree/main/week13) - online learning.
 <br>[week14](https://github.com/appliedecon/data602-lectures/tree/main/week14) - intro to neural networds.
@@ -81,8 +81,11 @@ This warehouses content for DATA602 lectures.
 <br>[Sigmoid Function](https://deepai.org/machine-learning-glossary-and-terms/sigmoid-function)
 
 ## Naive Bayes
+[Raschka's Naive Bayes Paper](https://arxiv.org/pdf/1410.5329.pdf)
 
 ## Support Vector Machines
+[SVM-rank](https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html)
+<br>[A Tutorial on Support Vector Machines for Pattern Recognition](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/)
 
 ## Decision Trees and Random Forests
 [dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)
