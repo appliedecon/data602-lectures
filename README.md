@@ -23,6 +23,7 @@ This warehouses content for DATA602 lectures.
 
 ## Books
 [Python Machine Learning, 3rd Edition, Raschka and Mirjalili](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750)
+<br>[Raschka's GitHub with the Notebooks for Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 <br>[Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 <br>[Introduction to Statistical Learning](https://www.statlearning.com)
 <br>[Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2)
