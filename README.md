@@ -92,6 +92,8 @@ This warehouses content for DATA602 lectures.
 [dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)
 
 ## Ensemble Modeling
+[XGBoost - optimized version of Gradient Boosting](https://xgboost.readthedocs.io/en/latest/)  
+<br>[Netflix Model](https://www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf)
 
 ## Neural Networks
 [Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
