@@ -31,7 +31,7 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 
 # Data requirements:
 - Should not be one of the common machine learning datasets used in examples and textbooks (no titanic, MNIST, iris, Boston house prices, or textbook datasets).
-Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally, the dataset should have a mix of numerical and categorical features, but that is not mandatory.  
+Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally, the dataset should have a mix of numerical and categorical features, but that is not mandatory. If the dataset comes from Kaggle or Data.World, there should be no public notebooks with analysis.  
 - The dataset should not be proprietary or internal to your company. Look for open data sets.  
 - This should be a **CLASSIFICATION** problem, either binary or multi-class.
 
