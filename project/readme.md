@@ -33,7 +33,12 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 - Should not be one of the common machine learning datasets used in examples and textbooks (no titanic, MNIST, iris, Boston house prices, or textbook datasets).
 Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally, the dataset should have a mix of numerical and categorical features, but that is not mandatory. If the dataset comes from Kaggle or Data.World, there should be no public notebooks with analysis.  
 - The dataset should not be proprietary or internal to your company. Look for open data sets.  
-- This should be a **CLASSIFICATION** problem, either binary or multi-class.
+- This should be a **CLASSIFICATION** problem, either binary or multi-class.  
+- Data sets used in class are obvious not allowed, this includes the IMDb dataset, MNIST, and other data sets we used in class.
 
 # Deadline:
-- Links to GitHub repository, slides, and YouTube video must be submitted via Blackboard by December 6th, 2021 at 11:59PM.
+- Links to GitHub repository, slides, and YouTube video must be submitted via Blackboard by December 6th, 2021 at 11:59PM.  
+
+# Potential projects:  
+- Sentiment analysis of review data to predict user reviews, whether an individual purchased a product, ...  
+- Image classification, e.g., predicted whether a picture is a dog, cat, fish, ...  
