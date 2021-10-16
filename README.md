@@ -93,7 +93,7 @@ This warehouses content for DATA602 lectures.
 <br>[Leo Breiman's Random Forest Notes](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 
 ## Ensemble Modeling
-[XGBoost - optimized version of Gradient Boosting](https://xgboost.readthedocs.io/en/latest/)  
+[XGBoost - optimized version of Gradient Boosting](https://xgboost.readthedocs.io/en/latest/)
 <br>[Netflix Model](https://www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf)
 
 ## Neural Networks
