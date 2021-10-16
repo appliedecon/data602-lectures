@@ -89,7 +89,8 @@ This warehouses content for DATA602 lectures.
 <br>[A Tutorial on Support Vector Machines for Pattern Recognition](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/)
 
 ## Decision Trees and Random Forests
-[dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)
+[dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)  
+<br>[Leo Breiman's Random Forest Notes](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 
 ## Ensemble Modeling
 [XGBoost - optimized version of Gradient Boosting](https://xgboost.readthedocs.io/en/latest/)  
@@ -98,6 +99,7 @@ This warehouses content for DATA602 lectures.
 ## Neural Networks
 [Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 <br>[Large-scale multi-label text classification with Keras](https://keras.io/examples/nlp/multi_label_classification/)
+<br>[TensorFlow](https://www.tensorflow.org)
 
 ## Time Series Analysis
 [Forecasting Principles and Practive, Hyndman](https://otexts.com/fpp2/)
