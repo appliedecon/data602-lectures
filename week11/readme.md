@@ -1,7 +1,8 @@
-# Sentiment Analysis and Online Learning
+# Dimensionality Reduction
 
 ## Agenda
-- MovieLens example. 
-- Bag of words. 
-- TF-IDF.  
-- Speeding up models with online learning.  
+- Why do we did to consider dimensionality reduction techniques? 
+- PCA. 
+- Kernel PCA.  
+- LDA.  
+- Manifold with t-SNE.   
