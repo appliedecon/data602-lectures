@@ -39,6 +39,14 @@ Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally,
 # Deadline:
 - Links to GitHub repository, slides, and YouTube video must be submitted via Blackboard by December 6th, 2021 at 11:59PM.  
 
-# Potential projects:  
+# Example project descriptions:  
 - Sentiment analysis of review data to predict user reviews, whether an individual purchased a product, ...  
 - Image classification, e.g., predicted whether a picture is a dog, cat, fish, ...  
+- Predict employee attrition.  
+- Predict whether the stock market increases or not.  
+- Predict type of recipe given ingredient lists.  
+- Predict whether transactions are fraud or not.  
+- Predict whether someone falls based on gyroscopic measurements.  
+- Predict the authenticity of autographs based on images.  
+- Generate new data based on a system of machine learning products.  
+- Predict whether someone buys products based on recommendation engines.  
