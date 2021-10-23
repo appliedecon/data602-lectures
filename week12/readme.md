@@ -2,6 +2,6 @@
 
 ## Agenda
 - k-means. 
+- Unsupervised learning extensions.  
 - Agglomative clustering.  
 - Density based clustering.  
-- Topic modeling.  
