@@ -15,7 +15,7 @@ This warehouses content for DATA602 lectures.
 <br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - dimension reduction, visualization, topic modeling.
 <br>[week12](https://github.com/appliedecon/data602-lectures/tree/main/week12) - clustering.
 <br>[week13](https://github.com/appliedecon/data602-lectures/tree/main/week13) - online learning.
-<br>[week14](https://github.com/appliedecon/data602-lectures/tree/main/week14) - intro to neural networds.
+<br>[week14](https://github.com/appliedecon/data602-lectures/tree/main/week14) - neural networds.
 
 
 
@@ -89,7 +89,7 @@ This warehouses content for DATA602 lectures.
 <br>[A Tutorial on Support Vector Machines for Pattern Recognition](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/)
 
 ## Decision Trees and Random Forests
-[dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)  
+[dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)
 <br>[Leo Breiman's Random Forest Notes](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 
 ## Ensemble Modeling
