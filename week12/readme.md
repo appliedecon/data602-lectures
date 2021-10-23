@@ -1,7 +1,7 @@
-# Clustering
+# Clustering/Unsupervised Learning
 
 ## Agenda
-- Unsupervised learning.  
 - k-means. 
 - Agglomative clustering.  
 - Density based clustering.  
+- Topic modeling.  
