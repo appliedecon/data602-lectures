@@ -12,7 +12,7 @@ This warehouses content for DATA602 lectures.
 <br>[week08](https://github.com/appliedecon/data602-lectures/tree/main/week08) - decision trees and random forest. 
 <br>[week09](https://github.com/appliedecon/data602-lectures/tree/main/week09) - naive bayes, svm, and k-nn.
 <br>[week10](https://github.com/appliedecon/data602-lectures/tree/main/week10) - bagging, boosting, voting, ensembles.
-<br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - dimension reduction, visualization.  
+<br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - dimension reduction, visualization. 
 <br>[week12](https://github.com/appliedecon/data602-lectures/tree/main/week12) - clustering.
 <br>[week13](https://github.com/appliedecon/data602-lectures/tree/main/week13) - online learning.
 <br>[week14](https://github.com/appliedecon/data602-lectures/tree/main/week14) - neural networds.
