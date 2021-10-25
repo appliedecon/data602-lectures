@@ -55,6 +55,9 @@ This warehouses content for DATA602 lectures.
 <br>[Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media](https://github.com/wesm/pydata-book)
 <br>[Matt Harrison's 9/22/21 Presentation to DataWorks MD on Idiomatic Pandas](https://www.youtube.com/watch?v=GXvKNWCiZUg)
 
+## numpy
+[Rascha's introduction to Numpy](https://sebastianraschka.com/blog/2020/numpy-intro.html)
+
 ## Exploratory Data Analysis and Visualization
 [Edward Tufte](https://www.edwardtufte.com/tufte/)
 <br>[Stephen Few](https://www.perceptualedge.com)
