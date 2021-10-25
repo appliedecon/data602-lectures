@@ -37,6 +37,7 @@ This warehouses content for DATA602 lectures.
 <br>[UMBC's Small Dataset Repo](https://github.com/UMBC-Data-Science/DATA602Datasets/)
 <br>[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 <br>[MovieLens](https://ai.stanford.edu/~amaas/data/sentiment/)
+<br>[List Raschka Curated](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html)
 
 ## General Python and Data Science Resources
 [mlxend](http://rasbt.github.io/mlxtend/)
@@ -100,6 +101,7 @@ This warehouses content for DATA602 lectures.
 [Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 <br>[Large-scale multi-label text classification with Keras](https://keras.io/examples/nlp/multi_label_classification/)
 <br>[TensorFlow](https://www.tensorflow.org)
+<br>[IBM - What are neural networks?](https://www.ibm.com/cloud/learn/neural-networks)
 
 ## Time Series Analysis
 [Forecasting Principles and Practive, Hyndman](https://otexts.com/fpp2/)
