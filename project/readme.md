@@ -36,8 +36,9 @@ Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally,
 - This should be a **CLASSIFICATION** problem, either binary or multi-class.  
 - Data sets used in class are obvious not allowed, this includes the IMDb dataset, MNIST, and other data sets we used in class.
 
-# Deadline:
-- Links to GitHub repository, slides, and YouTube video must be submitted via Blackboard by December 6th, 2021 at 11:59PM.  
+# Deadlines:
+- [Use this Google Form to submit the dataset you are using by 11/15/2021](https://docs.google.com/forms/d/e/1FAIpQLScAG7BMCHkF34TVkEs5Mdx0VMO3makWxoYRCin1NluxkI0NCQ/viewform?usp=sf_link). 
+- Links to GitHub repository, slides (pdf), and YouTube video must be submitted via Blackboard by December 6th, 2021 at 11:59PM.  
 
 # Example project descriptions:  
 - Sentiment analysis of review data to predict user reviews, whether an individual purchased a product, ...  
