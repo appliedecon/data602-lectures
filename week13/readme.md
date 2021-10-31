@@ -1,6 +1,6 @@
-# Dimensionality Reduction and Visualizing in High Dimensions
+# Online Learning
 
 ## Agenda
-- PCA.  
+- Stochastic gradient descent.    
+- Working with larger datasets via online learning.  
 - Topic modeling.  
-- t-SNE.  
