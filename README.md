@@ -29,6 +29,7 @@ This warehouses content for DATA602 lectures.
 <br>[Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2)
 
 ## Data Sources
+This certainly isn't comprehensive, just a starting point.  
 [OpenML](https://www.openml.org)
 <br>[CMU Datasets](http://lib.stat.cmu.edu/datasets/)
 <br>[Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
@@ -37,7 +38,8 @@ This warehouses content for DATA602 lectures.
 <br>[UMBC's Small Dataset Repo](https://github.com/UMBC-Data-Science/DATA602Datasets/)
 <br>[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 <br>[MovieLens](https://ai.stanford.edu/~amaas/data/sentiment/)
-<br>[List Raschka Curated](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html)
+<br>[List Raschka Curated](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html). 
+<br>[Google's Dataset Search](https://datasetsearch.research.google.com)
 
 ## General Python and Data Science Resources
 [mlxend](http://rasbt.github.io/mlxtend/)
