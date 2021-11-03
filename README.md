@@ -40,6 +40,7 @@ This certainly isn't comprehensive, just a starting point.
 <br>[MovieLens](https://ai.stanford.edu/~amaas/data/sentiment/)
 <br>[List Raschka Curated](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html). 
 <br>[Google's Dataset Search](https://datasetsearch.research.google.com)
+<br>[KDnugget's Datasets](https://www.kdnuggets.com/datasets/index.html)
 
 ## General Python and Data Science Resources
 [mlxend](http://rasbt.github.io/mlxtend/)
