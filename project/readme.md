@@ -31,10 +31,10 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 
 # Data requirements:
 - Should not be one of the common machine learning datasets used in examples and textbooks (no titanic, MNIST, iris, Boston house prices, textbook datasets, including any of the machine learning data repositories, e.g., UCI). Look for open data sets where their first purpose isn't machine learning.  
-Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally, the dataset should have a mix of numerical and categorical features, but that is not mandatory. Datasets from Kaggle, Data.World, or other machine learning-specific repositories are not allowed for the project.  
+- Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally, the dataset should have a mix of numerical and categorical features, but that is not mandatory. Datasets from Kaggle, Data.World, or other machine learning-specific repositories are not allowed for the project.  
 - The dataset should not be proprietary or internal to your company. Look for open data sets.  
 - This should be a **CLASSIFICATION** problem, either binary or multi-class.  
-- Data sets used in class demonstrations are not allowed, this includes the IMDb dataset and MNIST.
+- Data sets used in class demonstrations are not allowed, this includes the IMDb dataset and MNIST. Data sets included with libraries (e.g., scikit-learn, pandas, keras, ...) are also not allowed.
 
 # Deadlines:
 - [Use this Google Form to submit the dataset you are using by 11/15/2021](https://docs.google.com/forms/d/e/1FAIpQLScAG7BMCHkF34TVkEs5Mdx0VMO3makWxoYRCin1NluxkI0NCQ/viewform?usp=sf_link). 
