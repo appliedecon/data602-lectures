@@ -41,6 +41,17 @@ This certainly isn't comprehensive, just a starting point.
 <br>[List Raschka Curated](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html). 
 <br>[Google's Dataset Search](https://datasetsearch.research.google.com)
 <br>[KDnugget's Datasets](https://www.kdnuggets.com/datasets/index.html)
+<br>[Census Bureau MicroData](https://www.census.gov/programs-surveys/acs/microdata.html)
+<br>[SSA SSI MicroData](https://www.ssa.gov/policy/docs/microdata/ssr/index.html)
+<br>[SSA Earning MicroData](https://www.ssa.gov/policy/docs/microdata/epuf/index.html)
+<br>[University of Illinois MicroData Links](https://www.library.illinois.edu/govinfo/u-of-i-unit-library-homepage/researchtools/statistics/microdata/)
+<br>[BLS MicroData](https://www.bls.gov/cex/pumd.htm)
+<br>[National Science Foundation MicroData](https://www.nsf.gov/statistics/data-tools.cfm)
+<br>[Federal Reserve MicroData Manual](https://www.federalreserve.gov/apps/mdrm/)
+<br>[Economic Policy Institute MicroData](https://microdata.epi.org)
+<br>[WorldBank MicroData](https://microdata.worldbank.org/index.php/home)
+<br>[IPUMS - MicroData Collections](https://www.ipums.org)
+<br>[CDC MicroData](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm)
 
 ## General Python and Data Science Resources
 [mlxend](http://rasbt.github.io/mlxtend/)
