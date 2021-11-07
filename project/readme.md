@@ -39,6 +39,7 @@ Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally,
 # Deadlines:
 - [Use this Google Form to submit the dataset you are using by 11/15/2021](https://docs.google.com/forms/d/e/1FAIpQLScAG7BMCHkF34TVkEs5Mdx0VMO3makWxoYRCin1NluxkI0NCQ/viewform?usp=sf_link). 
 - Links to GitHub repository, slides (pdf), and YouTube video must be submitted via Blackboard by December 6th, 2021 at 11:59PM.  
+- This [Google Sheet](https://docs.google.com/spreadsheets/d/1xaUkc5SB9Jozq_gxNoAEFUi8m9WVUzqQt_enws5pdFA/edit?usp=sharing) lists all of the datasets that have been "approved". Once a student gets their dataset approved, no one else may choose that dataset.
 
 # Example project descriptions:  
 - Sentiment analysis of review data to predict user reviews, whether an individual purchased a product, ...  
@@ -52,4 +53,4 @@ Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally,
 - Generate new data based on a system of machine learning products.  
 - Predict whether someone buys products based on recommendation engines.  
 
-This [Google Sheet](https://docs.google.com/spreadsheets/d/1xaUkc5SB9Jozq_gxNoAEFUi8m9WVUzqQt_enws5pdFA/edit?usp=sharing) lists all of the datasets that have been "approved".
+
