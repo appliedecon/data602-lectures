@@ -52,6 +52,7 @@ This certainly isn't comprehensive, just a starting point.
 <br>[No Free Lunch](https://ieeexplore.ieee.org/document/6795940)
 <br>[Zico Kolter's Linear Algebra Review](https://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf)
 <br>[Data Works MD - Maryland Data Science User Group](https://dataworksmd.org)
+<br>[Markdown Cheatsheet from IBM](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet)
 
 ## pandas
 [pandas documentation](https://pandas.pydata.org)
