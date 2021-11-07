@@ -121,6 +121,7 @@ This certainly isn't comprehensive, just a starting point.
 <br>[Large-scale multi-label text classification with Keras](https://keras.io/examples/nlp/multi_label_classification/)
 <br>[TensorFlow](https://www.tensorflow.org)
 <br>[IBM - What are neural networks?](https://www.ibm.com/cloud/learn/neural-networks)
+<br>[Stanford CS230 Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 
 ## Time Series Analysis
 [Forecasting Principles and Practive, Hyndman](https://otexts.com/fpp2/)
