@@ -56,4 +56,20 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 - Generate new data based on a system of machine learning products.  
 - Predict whether someone buys products based on recommendation engines.  
 
+# Things to include:
+- Thorough EDA with visualizations.  
+- Selection of evaluation metric(s) for modeling.  
+- Understanding of minimum performance levels classifiers should have to be useable.  
+- Proper partitioning of training and test datasets.  
+- Broad grid search on multiple models.  
+- Refined grid search on models that showed most promise.  
+- Additional feature engineering/reduction if warranted and repeat of modeling processes.  
+- Summarization of results.  
+- Recommendations on next steps, including potential ways to improve performance and additional data that would be valuable.  
 
+# Expectations:
+- Organized repository, with folders for data, diagrams (if any), and a readme file.  
+- README should be in a markdown format and summarize your project (think an abstract).  
+- Notebook should be error free, include sections, and narratives to explain your thought process and summarize your observations.  
+- PowerPoint should be clean, well organized, and summarize your project.  
+- Video clip should walk through your PowerPoint.  
