@@ -13,6 +13,7 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
   - results and discussion;  
   - conclusion/next steps;  
   - references. 
+  - The notebook must be submitted with all cells executed in order and a PDF that memorializes the results will need to be submitted in addition to what is submitted on GitHub.  
 ### (2) Slide presentation that summarizes your motivation for choosing the dataset, the specific problem you are trying to solve, exploratory data analysis, and model results. You should include motivation towards the techniques chosen and areas for further exploration. Time permitting in the last week, everyone will have ~5 minutes to present their projects.
 ### (3) Youtube recording (< 5 minutes) overviewing the slides. You’ll submit the link.
 
@@ -71,5 +72,6 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 - Organized repository, with folders for data, diagrams (if any), and a readme file.  
 - README should be in a markdown format and summarize your project (think an abstract).  
 - Notebook should be error free, include sections, and narratives to explain your thought process and summarize your observations.  
-- PowerPoint should be clean, well organized, and summarize your project.  
-- Video clip should walk through your PowerPoint.  
+- Notebook should have every code cell executed sequentially (i.e., restart your kernel and run all).  
+- PowerPoint should be clean, well organized, and summarize your project. There should be no grammatical mistakes, misspellings, ECT, ...  You should be comfortable presenting this to the president of your company.  
+- Video clip should walk through your PowerPoint. Verbally should go through the slide deck without reading verbatim.  
