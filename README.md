@@ -65,6 +65,7 @@ This certainly isn't comprehensive, just a starting point.
 <br>[Data Works MD - Maryland Data Science User Group](https://dataworksmd.org)
 <br>[Markdown Cheatsheet from IBM](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet)
 <br>[Markdown Documentation from Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
+<br>[Curated List of 'Best of AI'](https://github.com/louisfb01/best_AI_papers_2021)
 
 ## pandas
 [pandas documentation](https://pandas.pydata.org)
