@@ -59,11 +59,14 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 
 # Things to include:
 - Thorough EDA with visualizations.  
-- Selection of evaluation metric(s) for modeling.  
+- Document how you are planning to handle missing values, outliers, ....
+- Selection of evaluation metric(s) for modeling with justification.  
 - Understanding of minimum performance levels classifiers should have to be useable.  
-- Proper partitioning of training and test datasets.  
+- Proper partitioning of training and test datasets and explanation of why you are setting up the experiment that way.    
 - Broad grid search on multiple models.  
 - Refined grid search on models that showed most promise.  
+- In addition to printing top-level (e.g., accuracy, recall, ...) provide ROC curves and/or precision-recall curves to better differentiate between models.  
+- If runtime is a considering factor, save those and plot the different runtimes.  
 - Additional feature engineering/reduction if warranted and repeat of modeling processes.  
 - Summarization of results.  
 - Recommendations on next steps, including potential ways to improve performance and additional data that would be valuable.  
