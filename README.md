@@ -15,7 +15,7 @@ This warehouses content for DATA602 lectures.
 <br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - dimension reduction, visualization. 
 <br>[week12](https://github.com/appliedecon/data602-lectures/tree/main/week12) - clustering.
 <br>[week13](https://github.com/appliedecon/data602-lectures/tree/main/week13) - online learning.
-<br>[week14](https://github.com/appliedecon/data602-lectures/tree/main/week14) - neural networds.
+<br>[week14](https://github.com/appliedecon/data602-lectures/tree/main/week14) - neural networks (FF-MLP, convolutional).
 
 
 
