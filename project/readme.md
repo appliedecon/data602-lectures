@@ -71,6 +71,8 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 - Summarization of results.  
 - Recommendations on next steps, including potential ways to improve performance and additional data that would be valuable.  
 
+**IF YOUR MODELS HAVE AN ACCURACY OF 100%, PLEASE MAKE SURE YOU DIDN'T LEAK DATA ABOUT YOUR TARGET!**
+
 # Expectations:
 - Organized repository, with folders for data, diagrams (if any), and a readme file.  
 - README should be in a markdown format and summarize your project (think an abstract).  
