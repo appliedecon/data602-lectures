@@ -80,3 +80,21 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 - Notebook should have every code cell executed sequentially (i.e., restart your kernel and run all).  
 - PowerPoint should be clean, well organized, and summarize your project. There should be no grammatical mistakes, misspellings, ECT, ...  You should be comfortable presenting this to the president of your company.  
 - Video clip should walk through your PowerPoint. Verbally should go through the slide deck without reading verbatim.  
+
+# Questions I've received:
+#### What if my column is mostly missing values?
+- Read the data documentation to determine if there is a reason for the missing values and handle accordingly
+If no documentation exists, you'll need to use your own judgement, which could include:  
+- Fill as "Unknown/Missing" using the fill_value in the simple imputer, then use One Hot Encoding (if categorical).  
+- Fill as zero if the data represents some type of count, or use the median/mean/mode fill strategies (if numeric).  
+- Not include the column for modeling (not every column needs to be included, if it isn't useful it isn't useful).  
+
+#### What if my categorical variable has a lot of unique values?
+- Identify the top N and replace the rest with "Other" and then use One Hot Encoding.  
+- Use One Hot Encoding then pass through a variance threshold imputer to remove very rare values.  
+- Don't worry and use methods that regularize the useless categories to zero/near-zero.  
+
+#### What if my target variable has a lot of categories with small N?
+- Consolidate the categories using an if-statement.  
+- Drop the small categories and acknowledge rationale within the modeling process.  
+
