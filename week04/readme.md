@@ -13,6 +13,9 @@ Agenda:
 - Multiple regression. 
 - Strengths and weaknesses.  
 - Pipelines.  
+- Ridge.
+- Gradient descent.  
+- Lasso.
 
 Resources/readings:
 - [Ben Lambert's Derivation of OLS](https://www.youtube.com/watch?v=fb1CNQT-3Pg). 
