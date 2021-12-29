@@ -54,7 +54,8 @@ This certainly isn't comprehensive, just a starting point.
 <br>[CDC MicroData](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm)
 
 ## General Python and Data Science Resources
-[mlxend](http://rasbt.github.io/mlxtend/)
+[Zico Kolter's Linear Algebra Review and Reference](http://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf)
+<br>[mlxend](http://rasbt.github.io/mlxtend/)
 <br>[Repository for Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2)
 <br>[Cornell - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/page18/)
 <br>[Murat's Fall '20 Materials](https://github.com/mguner/UMBC_DATA602)
