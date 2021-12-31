@@ -2,20 +2,19 @@
 
 This warehouses content for DATA602 lectures.
 
-[week01](https://github.com/appliedecon/data602-lectures/tree/main/week01) - Introduction/Census data analysis.
-<br>[week02](https://github.com/appliedecon/data602-lectures/tree/main/week02) - EDA.
-<br>[week03](https://github.com/appliedecon/data602-lectures/tree/main/week03) - Introduction to machine learning.
-<br>[week04](https://github.com/appliedecon/data602-lectures/tree/main/week04) - Regression and regularization.
-<br>[week05](https://github.com/appliedecon/data602-lectures/tree/main/week05) - Introduction to Classification with Logistic Regression.
-<br>[week06](https://github.com/appliedecon/data602-lectures/tree/main/week06) - Design, experiments, and hyperparameter searching.
-<br>[week07](https://github.com/appliedecon/data602-lectures/tree/main/week07) - Decision Trees and Random Forests.
-<br>[week08](https://github.com/appliedecon/data602-lectures/tree/main/week08) - Naive Bayes, SVM, and K-NN.
-<br>[week09](https://github.com/appliedecon/data602-lectures/tree/main/week09) - Ensembles.
-<br>[week10](https://github.com/appliedecon/data602-lectures/tree/main/week10) - Dimension Reduction.
-<br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/week11) - Clustering and Unsupervised Learning.
-<br>[week12](https://github.com/appliedecon/data602-lectures/tree/main/week12) - Online Learning for Big Datasets.
-<br>[week13](https://github.com/appliedecon/data602-lectures/tree/main/week13) - Introduction to Neural Networks.
-<br>[week14](https://github.com/appliedecon/data602-lectures/tree/main/week14) - Neural Networks Continued.
+[week01](https://github.com/appliedecon/data602-lectures/tree/main/course-intro) - Introduction/Census data analysis.
+<br>[week02](https://github.com/appliedecon/data602-lectures/tree/main/eda) - EDA.
+<br>[week03](https://github.com/appliedecon/data602-lectures/tree/main/machine-learning-in-a-nutshell) - Introduction to machine learning.
+<br>[week04](https://github.com/appliedecon/data602-lectures/tree/main/regression) - Regression and regularization.
+<br>[week05](https://github.com/appliedecon/data602-lectures/tree/main/logistic-regression) - Introduction to Classification with Logistic Regression.
+<br>[week06](https://github.com/appliedecon/data602-lectures/tree/main/model-evaluation) - Design, experiments, and hyperparameter searching.
+<br>[week07](https://github.com/appliedecon/data602-lectures/tree/main/trees) - Decision Trees and Random Forests.
+<br>[week08](https://github.com/appliedecon/data602-lectures/tree/main/supervised-algorithms) - Naive Bayes, SVM, and K-NN.
+<br>[week09](https://github.com/appliedecon/data602-lectures/tree/main/ensembles) - Ensembles.
+<br>[week10](https://github.com/appliedecon/data602-lectures/tree/main/dimension-reduction) - Dimension Reduction.
+<br>[week11](https://github.com/appliedecon/data602-lectures/tree/main/unsupervised-learning) - Clustering and Unsupervised Learning.
+<br>[week12](https://github.com/appliedecon/data602-lectures/tree/main/online-learning) - Online Learning for Big Datasets.
+<br>[week13-14](https://github.com/appliedecon/data602-lectures/tree/main/neural-networks) - Introduction to Neural Networks.
 
 
 
