@@ -6,4 +6,3 @@
 - Kernel PCA.  
 - LDA.  
 - Manifold with t-SNE.   
-- Non-negative matrix factorization.  
