@@ -1,7 +1,6 @@
 # Week 4 - Introduction to Regression
 
 Agenda:
-- Linear algebra review. 
 - What is least squares regression?  
 - Closed-form solution.  
 - Evaluation metrics.  
@@ -18,7 +17,7 @@ Agenda:
 - Lasso.
 
 Resources:
-[Ben Lambert's Derivation of OLS](https://www.youtube.com/watch?v=fb1CNQT-3Pg)
+<br>[Ben Lambert's Derivation of OLS](https://www.youtube.com/watch?v=fb1CNQT-3Pg)
 <br>[Andrew Ng Regression Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8)
 <br>[Cornell Regression Lecture](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote08.html)
 <br>[Deriving Ridge Regression](https://stats.stackexchange.com/questions/69205/how-to-derive-the-ridge-regression-solution)
