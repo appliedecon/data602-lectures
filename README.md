@@ -16,8 +16,6 @@ This warehouses content for DATA602 lectures.
 <br>[week 12](https://github.com/appliedecon/data602-lectures/tree/main/online-learning) - Online Learning for Big Datasets.
 <br>[weeks 13 and beyond](https://github.com/appliedecon/data602-lectures/tree/main/neural-networks) - Introduction to Neural Networks.
 
-
-
 # Resources 
 
 ## Books
@@ -75,13 +73,6 @@ This certainly isn't comprehensive, just a starting point.
 
 ## numpy
 [Rascha's introduction to Numpy](https://sebastianraschka.com/blog/2020/numpy-intro.html)
-
-## Regression
-[Andrew Ng Regression Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8)
-<br>[Cornell Regression Lecture](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote08.html)
-<br>[Deriving Ridge Regression](https://stats.stackexchange.com/questions/69205/how-to-derive-the-ridge-regression-solution)
-<br>[Common Pitfalls in Interpreting Coefficients](https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html)
-<br>[HBR Article - Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations)
 
 ## Naive Bayes
 [Raschka's Naive Bayes Paper](https://arxiv.org/pdf/1410.5329.pdf)
