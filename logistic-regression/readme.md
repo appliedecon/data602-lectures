@@ -13,6 +13,8 @@ There are 2 notebooks for this lecture.
 [Main lecture with examples and notation](https://github.com/appliedecon/data602-lectures/blob/main/logistic-regression/logistic-regression.ipynb)
 <br>[Implementation of Logistic Regression Using Gradient Descent](https://github.com/appliedecon/data602-lectures/blob/main/logistic-regression/gradient-descent-logistic-regression.ipynb)
 
+If you have issues viewing the notebook here, use https://nbviewer.org.
+
 ## Resources/readings:
 [Logistic Regression Youtube Demo](https://www.youtube.com/watch?v=71iXeuKFcQM)
 <br>[scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
