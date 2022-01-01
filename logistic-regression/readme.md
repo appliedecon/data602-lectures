@@ -10,8 +10,8 @@
 - Softmax for multiclass problems.  
 
 There are 2 notebooks for this lecture.  
-[Main lecture with examples and notation](https://github.com/appliedecon/data602-lectures/blob/main/week06/logistic-regression.ipynb)
-<br>[Implementation of Logistic Regression Using Gradient Descent](https://github.com/appliedecon/data602-lectures/blob/main/week06/gradient-descent-logistic-regression.ipynb)
+[Main lecture with examples and notation](https://github.com/appliedecon/data602-lectures/blob/main/logistic-regression/logistic-regression.ipynb)
+<br>[Implementation of Logistic Regression Using Gradient Descent](https://github.com/appliedecon/data602-lectures/blob/main/logistic-regression/gradient-descent-logistic-regression.ipynb)
 
 ## Resources/readings:
 [Logistic Regression Youtube Demo](https://www.youtube.com/watch?v=71iXeuKFcQM)
