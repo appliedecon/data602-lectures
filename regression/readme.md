@@ -17,6 +17,10 @@ Agenda:
 - Gradient descent.  
 - Lasso.
 
-Resources/readings:
-- [Ben Lambert's Derivation of OLS](https://www.youtube.com/watch?v=fb1CNQT-3Pg). 
-- [Andrew Ng - Regression with one variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc). 
+Resources:
+[Ben Lambert's Derivation of OLS](https://www.youtube.com/watch?v=fb1CNQT-3Pg)
+<br>[Andrew Ng Regression Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8)
+<br>[Cornell Regression Lecture](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote08.html)
+<br>[Deriving Ridge Regression](https://stats.stackexchange.com/questions/69205/how-to-derive-the-ridge-regression-solution)
+<br>[Common Pitfalls in Interpreting Coefficients](https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html)
+<br>[HBR Article - Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations)
