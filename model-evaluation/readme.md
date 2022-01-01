@@ -10,6 +10,8 @@
 - Grid search.  
 - Class imbalance.  
 
+If you have issues viewing the notebook here, use https://nbviewer.org.
+
 ## Resources
 [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning, Raschka](https://arxiv.org/abs/1811.12808)
 <br>[SMOTE](https://arxiv.org/pdf/1106.1813.pdf)
