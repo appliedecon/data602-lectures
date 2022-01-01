@@ -1,6 +1,8 @@
 # Agenda
 Overview of common exploratory data analyses.
 
+If you have issues viewing the notebook here, use https://nbviewer.org.
+
 # Resources
 [Edward Tufte](https://www.edwardtufte.com/tufte/)
 <br>[Stephen Few](https://www.perceptualedge.com)
