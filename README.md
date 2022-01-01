@@ -76,15 +76,6 @@ This certainly isn't comprehensive, just a starting point.
 ## numpy
 [Rascha's introduction to Numpy](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 
-## Exploratory Data Analysis and Visualization
-[Edward Tufte](https://www.edwardtufte.com/tufte/)
-<br>[Stephen Few](https://www.perceptualedge.com)
-<br>[Save The Pies for Dessert](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf)
-<br>[Tableau Public Gallery](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
-<br>[Matplotlib](https://matplotlib.org)
-<br>[seaborn](https://seaborn.pydata.org)
-<br>[JunkCharts - examples of what not to do](https://junkcharts.typepad.com)
-
 ## Regression
 [Andrew Ng Regression Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8)
 <br>[Cornell Regression Lecture](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote08.html)
