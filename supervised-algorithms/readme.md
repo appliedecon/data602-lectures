@@ -7,6 +7,8 @@
 - Naive Bayes.  
 - Comparison on SPAM with logistic regression, SVM, KNN, and naive bayes.    
 
+If you have issues viewing the notebook here, use https://nbviewer.org.
+
 # Resources
 [Raschka's Naive Bayes Paper](https://arxiv.org/pdf/1410.5329.pdf)
 <br>[SVM-rank](https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html)
