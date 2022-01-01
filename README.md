@@ -74,13 +74,6 @@ This certainly isn't comprehensive, just a starting point.
 ## numpy
 [Rascha's introduction to Numpy](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 
-## Naive Bayes
-[Raschka's Naive Bayes Paper](https://arxiv.org/pdf/1410.5329.pdf)
-
-## Support Vector Machines
-[SVM-rank](https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html)
-<br>[A Tutorial on Support Vector Machines for Pattern Recognition](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/)
-
 ## Decision Trees and Random Forests
 [dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)
 <br>[Leo Breiman's Random Forest Notes](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
