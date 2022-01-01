@@ -66,23 +66,6 @@ This certainly isn't comprehensive, just a starting point.
 <br>[Curated List of 'Best of AI'](https://github.com/louisfb01/best_AI_papers_2021)
 <br>[Cassie Kozyrkov's YouTube Channel (Chief Decision Scientist at Google - She's Kind Of A Big Deal](https://www.youtube.com/kozyrkov)
 
-## pandas
-[pandas documentation](https://pandas.pydata.org)
-<br>[Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media](https://github.com/wesm/pydata-book)
-<br>[Matt Harrison's 9/22/21 Presentation to DataWorks MD on Idiomatic Pandas](https://www.youtube.com/watch?v=GXvKNWCiZUg)
-
-## numpy
-[Rascha's introduction to Numpy](https://sebastianraschka.com/blog/2020/numpy-intro.html)
-
 ## Ensemble Modeling
 [XGBoost - optimized version of Gradient Boosting](https://xgboost.readthedocs.io/en/latest/)
 <br>[Netflix Model](https://www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf)
-
-## Model Evaluation
-[Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning, Raschka](https://arxiv.org/abs/1811.12808)
-<br>[SMOTE](https://arxiv.org/pdf/1106.1813.pdf)
-<br>[Evaluation: from precision, recall and F-measure to ROC, informedness, markedness and correlation](https://arxiv.org/abs/2010.16061)
-<br>[scikit-learn Model Selection](https://scikit-learn.org/stable/model_selection.html)
-
-## Text Analysis
-[Tidy Text with Julia Silge and David Robinson](https://www.tidytextmining.com)
