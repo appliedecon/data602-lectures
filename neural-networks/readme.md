@@ -7,6 +7,8 @@ This will briefly touch on some of the high level concepts with Neural Networks.
 - Keras.  
 - Introduction to convolutions.
 
+If you have issues viewing the notebook here, use https://nbviewer.org.
+
 ## Resources
 <br>[Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 <br>[Large-scale multi-label text classification with Keras](https://keras.io/examples/nlp/multi_label_classification/)
