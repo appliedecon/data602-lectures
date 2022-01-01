@@ -74,10 +74,6 @@ This certainly isn't comprehensive, just a starting point.
 ## numpy
 [Rascha's introduction to Numpy](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 
-## Decision Trees and Random Forests
-[dtreeviz - package for visualizing decision trees](https://github.com/parrt/dtreeviz)
-<br>[Leo Breiman's Random Forest Notes](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
-
 ## Ensemble Modeling
 [XGBoost - optimized version of Gradient Boosting](https://xgboost.readthedocs.io/en/latest/)
 <br>[Netflix Model](https://www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf)
