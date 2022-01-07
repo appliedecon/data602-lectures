@@ -1,13 +1,17 @@
 # DATA602 Final Project
-This is your opportunity to utilize the concepts in the course in undertaking your own machine learning analysis. This will be worth 30% of your final grade. This should be oriented around a classification problem - either binary or a multiclass problem.
+This is your opportunity to utilize the concepts in the course in undertaking your own machine learning analysis. This will be worth 30% of your final grade. This should be oriented around a **classification problem - either binary or a multiclass problem**.
 
 # Deliverables:
+### (0) Project Proposal
+- Notebook with the business question being answered.  
+- Exploratory analysis on the data to ensure the problem can be answered.  
+- This will be worth 25% of your project grade.  
 ### (1) A GitHub repository with your project, containing:
 - README that contains an overview of your work. 
 - Copy or link to your data. 
 - Jupyter Notebook - containing:  
   - an abstract/introduction;   
-  - exploratory data analysis);  
+  - exploratory data analysis (this will be done via your project proposal);  
   - data cleaning and feature engineering;  
   - modeling;  
   - results and discussion;  
