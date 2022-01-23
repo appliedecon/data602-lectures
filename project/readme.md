@@ -4,8 +4,12 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 # Deliverables:
 ### (0) Project Proposal
 - Notebook with the business question being answered.  
-- Exploratory analysis on the data to ensure the problem can be answered.  
+- Exploratory analysis (EDA) on the data to ensure the problem can be answered.  
 - This will be worth 25% of your project grade.  
+- This should contain:  
+  - a README explaining the data set you've chosen, why you've chosen it, and the classification activity you plan on pursuing.  
+  - a Jupyer Notebook that thoroughly performs EDA on your data set. Unnecessary features should be documented and removed, data with bad data types should be fixed, and any necessary if-else type transformations should be explored/implemented. **DO NOT** perform any missing value replacement or standardization on this data, however, note which features would require that type of additional processing.  
+  - The end results of the EDA should be a very clean data set that would be ready for modeling activities.
 ### (1) A GitHub repository with your project, containing:
 - README that contains an overview of your work. 
 - Copy or link to your data. 
