@@ -56,6 +56,7 @@ This certainly isn't comprehensive, just a starting point.
 <br>[Repository for Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2)
 <br>[Cornell - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/page18/)
 <br>[Murat's Fall '20 Materials](https://github.com/mguner/UMBC_DATA602)
+<br>[Tony Diana's Notebooks](https://github.com/DATA602/Class)
 <br>[Goker Erdogan's Lecture Notes](https://github.com/gokererdogan/JaverianaMLCourse)
 <br>[Raschka's STAT 479 Notes](https://github.com/rasbt/stat479-machine-learning-fs19)
 <br>[No Free Lunch](https://ieeexplore.ieee.org/document/6795940)
