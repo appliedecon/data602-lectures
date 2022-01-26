@@ -27,3 +27,7 @@ If you have issues viewing the notebook here, use https://nbviewer.org.
 <br>[Grid Search in Keras](https://keras.io/guides/keras_tuner/getting_started/)
 <br>[Forecasting Principles and Practice, Hyndman, Neural Network Models](https://otexts.com/fpp3/nnetar.html)
 <br>[IBM - What are Recurrent Neural Networks?](https://www.ibm.com/cloud/learn/recurrent-neural-networks)
+<br>[Deep Learning Book - Feedforward Neural Networks](https://www.deeplearningbook.org/contents/mlp.html)
+<br>[Fashion MNIST](https://www.tensorflow.org/tutorials/keras/classification)
+<br>[Recurrent Neural Networks with TensorFlow](https://www.tensorflow.org/guide/keras/rnn)
+<br>[Keras Tuner](https://keras.io/keras_tuner/)
