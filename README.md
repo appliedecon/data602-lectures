@@ -66,3 +66,4 @@ This certainly isn't comprehensive, just a starting point.
 <br>[Markdown Documentation from Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 <br>[Curated List of 'Best of AI'](https://github.com/louisfb01/best_AI_papers_2021)
 <br>[Cassie Kozyrkov's YouTube Channel (Chief Decision Scientist at Google - She's Kind Of A Big Deal](https://www.youtube.com/kozyrkov)
+<br>[QuantEcon](https://python.quantecon.org/intro.html)
