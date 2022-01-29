@@ -45,6 +45,7 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 # Data requirements:
 - Should not be one of the common machine learning datasets used in-class, in textbooks, online tutorials, or included within packages (i.e., MNIST, Titantic, Iris, ....).   
 - Datasets should not be proprietary or internal to your company.  
+- Kaggle is **not** allowed.  
 - Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally, the dataset should have a mix of numerical and categorical features, but that is not mandatory.   
 
 # Deadlines:  
