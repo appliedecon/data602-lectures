@@ -26,7 +26,7 @@ This warehouses content for DATA602 lectures.
 <br>[Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2)
 
 ## Data Sources
-This certainly isn't comprehensive, just a starting point.  
+This certainly isn't comprehensive, just a starting point. Not all of these would be eligible for use in the final project. See the [project description](https://github.com/appliedecon/data602-lectures/tree/main/project) for guidelines.  
 [OpenML](https://www.openml.org)
 <br>[CMU Datasets](http://lib.stat.cmu.edu/datasets/)
 <br>[Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
