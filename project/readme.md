@@ -50,8 +50,8 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 - Use a dataset of at least moderate size (> 5,000 rows and 10 features). Ideally, the dataset should have a mix of numerical and categorical features, but that is not mandatory.   
 
 # Deadlines:  
-- Project proposal: TBD. 
-- Overall project due date: TBD.  
+- Project proposal: 4/13. 
+- Overall project due date: 5/11.  
 
 # Example project descriptions:  
 - Sentiment analysis of review data to predict user reviews, whether an individual purchased a product, ...  
