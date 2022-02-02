@@ -23,7 +23,8 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
   - references. 
   - The notebook must be submitted with all cells executed in order and a PDF that memorializes the results will need to be submitted in addition to what is submitted on GitHub.  
 ### (2) Slide presentation that summarizes your motivation for choosing the dataset, the specific problem you are trying to solve, exploratory data analysis, and model results. You should include motivation towards the techniques chosen and areas for further exploration. Time permitting in the last week, everyone will have ~5 minutes to present their projects.
-### (3) Youtube recording (< 5 minutes) overviewing the slides. You’ll submit the link.
+### (3) Youtube recording (< 5 minutes) overviewing the slides. You’ll submit the link.  
+### (4) The last week of class is reserved for presentations. While everyone won't be able to present due to time, you should be prepared to present!
 
 # Checklist of things to include:
 - Project motivation clearly explained. 
