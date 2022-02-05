@@ -12,7 +12,7 @@ This warehouses content for DATA602 lectures.
 <br>[week 08](https://github.com/appliedecon/data602-lectures/tree/main/supervised-algorithms) - Naive Bayes, SVM, and K-NN.
 <br>[week 09](https://github.com/appliedecon/data602-lectures/tree/main/ensembles) - Ensembles.
 <br>[week 10](https://github.com/appliedecon/data602-lectures/tree/main/dimension-reduction) - Dimension Reduction.
-<br>[week 11](https://github.com/appliedecon/data602-lectures/tree/main/unsupervised-learning) - Clustering and Unsupervised Learning.
+<br>[week 11](https://github.com/appliedecon/data602-lectures/tree/main/unsupervised) - Clustering and Unsupervised Learning.
 <br>[week 12](https://github.com/appliedecon/data602-lectures/tree/main/online-learning) - Online Learning for Big Datasets.
 <br>[weeks 13 and beyond](https://github.com/appliedecon/data602-lectures/tree/main/neural-networks) - Introduction to Neural Networks.
 
