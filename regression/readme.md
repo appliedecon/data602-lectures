@@ -16,6 +16,8 @@ Agenda:
 - Gradient descent.  
 - Lasso.
 
+If you are having difficulty viewing the notebook, try [Jupyter's Notebook Viewer](https://nbviewer.org).
+
 Resources:
 <br>[Ben Lambert's Derivation of OLS](https://www.youtube.com/watch?v=fb1CNQT-3Pg)
 <br>[Andrew Ng Regression Lecture](https://www.youtube.com/watch?v=4b4MUYve_U8)
