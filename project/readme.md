@@ -9,7 +9,8 @@ This is your opportunity to utilize the concepts in the course in undertaking yo
 - This should contain:  
   - a README explaining the data set you've chosen, why you've chosen it, and the classification activity you plan on pursuing.  
   - a Jupyer Notebook that thoroughly performs EDA on your data set. Unnecessary features should be documented and removed, data with bad data types should be fixed, and any necessary if-else type transformations should be explored/implemented. **DO NOT** perform any missing value replacement or standardization on this data, however, note which features would require that type of additional processing.  
-  - The end results of the EDA should be a very clean data set that would be ready for modeling activities.
+  - The end results of the EDA should be a very clean data set that would be ready for modeling activities.  
+- **Make sure you review the features in your dataset. It is common for the same feature to be expressed multiple times (e.g., state code and state name). There also may be hierarchial relationships that could cause leakage and variables that wouldn't realistically be available until after the label is created (e.g., if you are predicting the `type` you shouldn't the `sub-type` as a feature!)**. 
 ### (1) A GitHub repository with your project, containing:
 - README that contains an overview of your work. 
 - Copy or link to your data. 
