@@ -5,7 +5,8 @@ This will briefly touch on some of the high level concepts with Neural Networks.
 - Intro to ANNs
 - MLP with scikit-learn.    
 - Keras.  
-- Introduction to convolutions.
+- Introduction to convolutions.  
+- Introduction to recurrent.
 
 If you have issues viewing the notebook here, use https://nbviewer.org.
 
