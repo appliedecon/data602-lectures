@@ -11,7 +11,7 @@ This will briefly touch on some of the high level concepts with Neural Networks.
 If you have issues viewing the notebook here, use https://nbviewer.org.
 
 ## General Resources
-<br>[Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
+[Raschka's videos on deep learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 <br>[Large-scale multi-label text classification with Keras](https://keras.io/examples/nlp/multi_label_classification/)
 <br>[TensorFlow](https://www.tensorflow.org)
 <br>[IBM - What are neural networks?](https://www.ibm.com/cloud/learn/neural-networks)
@@ -30,13 +30,16 @@ If you have issues viewing the notebook here, use https://nbviewer.org.
 <br>[Keras Tuner](https://keras.io/keras_tuner/)
 
 ### Convolutional
-<br>[Convolutional NN Example](https://www.tensorflow.org/tutorials/images/cnn)
+[Convolutional NN Example](https://www.tensorflow.org/tutorials/images/cnn)
 
 ### Recurrent
-<br>[IBM - What are Recurrent Neural Networks?](https://www.ibm.com/cloud/learn/recurrent-neural-networks)
+[IBM - What are Recurrent Neural Networks?](https://www.ibm.com/cloud/learn/recurrent-neural-networks)
 <br>[Recurrent Neural Networks with TensorFlow](https://www.tensorflow.org/guide/keras/rnn)
 
 ### Embeddings and autoencoders
-<br>[Keras Embedding](https://keras.io/api/layers/core_layers/embedding/)
+[Keras Embedding](https://keras.io/api/layers/core_layers/embedding/)
 <br>[Machine Learning Mastery Post on Embedding](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
 <br>[Autoencoders from Deep Learning](https://www.deeplearningbook.org/contents/autoencoders.html<br>[])
+
+### More Advanced Neural Networks
+[Knowledge Graphs with Ampligraph](https://docs.ampligraph.org/en/1.4.0/)
